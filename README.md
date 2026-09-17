@@ -19,6 +19,10 @@ Nothing here is stored output. Each program either checks the paper's statements
 `[PASS]`/`[FAIL]` line per statement and exiting with the number of failures, or prints counts that
 [the map below](#map-from-the-paper-to-the-programs) ties to the paper's numbers.
 
+
+> [!WARNING]
+> **One-off Scripts** The code in this repository was mostly generated and served the purpose of exploring automata to extract specific characterizations. It is not meant to be a library. Please do not build on top of it or extend it.
+
 ## Contents
 
 | directory | what it computes | paper |
