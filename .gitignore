@@ -1,0 +1,20 @@
+# build products and outputs of the programs
+__pycache__/
+*.pyc
+*.exe
+*.o
+*.pdb
+*.out
+*.json
+reps_*.txt
+OUT/
+PYOUT/
+second_moment/census_engine
+second_moment/membership
+eulerian_fibres/class_reps
+eulerian_fibres/fibres
+stationary/class_reps
+stationary/uniform_weights
+stationary/bias_census
+stationary/bias_census_exact
+stationary/permutation_stratum
